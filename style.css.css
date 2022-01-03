@@ -1,0 +1,55 @@
+        header {
+            display: flex;
+            justify-content: space-between;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        h1 {
+            font-size: 2.8rem;
+        }
+        
+        li {
+            list-style: none;
+        }
+        
+        nav {
+            position: relative;
+            width: 32rem;
+            margin-top: 2.7rem;
+        }
+        
+        a {
+            font-size: 2rem;
+            text-decoration: none;
+            text-decoration-color: crimson;
+        }
+        
+        ul {
+            display: flex;
+            justify-content: space-around;
+        }
+        
+        .image {
+            width: 95vw;
+            margin: 1rem;
+        }
+        
+        article {
+            display: flex;
+        }
+        
+        .container {
+            /* display: flex; */
+            /*justify-content: space-evenly;*/
+            text-align: center;
+        }
+        
+        footer {
+            background-color: black;
+            text-align: center;
+            justify-content: center;
+            height: 2.5rem;
+            color: white;
+            align-items: center;
+            display: flex;
+        }
